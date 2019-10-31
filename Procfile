@@ -1,1 +1,1 @@
-web: gunicorn btre1708webdj.wsgi --log-file -
+web: gunicorn btre.wsgi --log-file -
